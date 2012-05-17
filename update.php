@@ -1,6 +1,6 @@
 <?php
 
-	error_reporting(E_ALL ^ E_NOTICE);
+	error_reporting(E_ALL ^ E_NOTICE); BLLLLLLLLAAAAAAAAAAAHHHHHHHHHHHH
 
 	function __errorHandler($errno=NULL, $errstr, $errfile=NULL, $errline=NULL, $errcontext=NULL){
 		return;
